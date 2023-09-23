@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-prime",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Test if a number is prime.",
   "license": "Apache-2.0",
   "author": {
@@ -37,17 +37,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-safe-integer": "^0.0.8",
-    "@stdlib/math-base-special-floor": "^0.0.8",
-    "@stdlib/math-base-special-sqrt": "^0.0.8"
+    "@stdlib/constants-float64-max-safe-integer": "^0.1.0",
+    "@stdlib/math-base-special-floor": "^0.1.0",
+    "@stdlib/math-base-special-sqrt": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
-    "@stdlib/constants-float64-ninf": "^0.0.8",
-    "@stdlib/constants-float64-pinf": "^0.0.8",
-    "@stdlib/datasets-primes-100k": "^0.0.9",
-    "@stdlib/math-base-special-log10": "^0.0.6",
+    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
+    "@stdlib/constants-float64-ninf": "^0.1.0",
+    "@stdlib/constants-float64-pinf": "^0.1.0",
+    "@stdlib/datasets-primes-100k": "^0.1.0",
+    "@stdlib/math-base-special-log10": "^0.1.0",
     "@stdlib/math-base-special-pow": "^0.0.7",
     "@stdlib/math-base-special-trunc": "^0.0.8",
     "@stdlib/random-base-discrete-uniform": "^0.0.6",
