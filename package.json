@@ -37,16 +37,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-safe-integer": "^0.1.0",
+    "@stdlib/constants-float64-max-safe-integer": "^0.1.1",
     "@stdlib/math-base-special-floor": "^0.1.0",
     "@stdlib/math-base-special-sqrt": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/constants-float64-ninf": "^0.1.0",
-    "@stdlib/constants-float64-pinf": "^0.1.0",
-    "@stdlib/datasets-primes-100k": "^0.1.0",
+    "@stdlib/constants-float64-ninf": "^0.1.1",
+    "@stdlib/constants-float64-pinf": "^0.1.1",
+    "@stdlib/datasets-primes-100k": "^0.1.1",
     "@stdlib/math-base-special-log10": "^0.1.0",
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/math-base-special-trunc": "^0.1.0",

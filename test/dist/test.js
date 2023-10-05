@@ -26,7 +26,7 @@ var randu = require( '@stdlib/random-base-randu' );
 var discreteUniform = require( '@stdlib/random-base-discrete-uniform' );
 var PINF = require( '@stdlib/constants-float64-pinf' );
 var NINF = require( '@stdlib/constants-float64-ninf' );
-var PRIMES = require( './../..xtures/primes.js' );
+var PRIMES = require( './../fixtures/primes.js' );
 var isPrime = require( './../../dist' );
 
 
