@@ -50,7 +50,7 @@ A **prime number** is defined as an integer value greater than `1` which is only
 ## Usage
 
 ```javascript
-import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-prime@deno/mod.js';
+import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-prime@v0.2.0-deno/mod.js';
 ```
 
 #### isPrime( x )
@@ -79,7 +79,7 @@ var bool = isPrime( 7.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-prime@deno/mod.js';
+import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-prime@v0.2.0-deno/mod.js';
 
 var bool = isPrime( 11.0 );
 // returns true
