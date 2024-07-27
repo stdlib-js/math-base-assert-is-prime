@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-prime",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Test if a number is prime.",
   "license": "Apache-2.0",
   "author": {
@@ -40,23 +40,23 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-safe-integer": "^0.2.1",
+    "@stdlib/constants-float64-max-safe-integer": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.2",
     "@stdlib/math-base-special-sqrt": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.1",
-    "@stdlib/boolean-ctor": "^0.2.1",
-    "@stdlib/constants-float64-ninf": "^0.2.1",
-    "@stdlib/constants-float64-pinf": "^0.2.1",
-    "@stdlib/datasets-primes-100k": "^0.2.1",
-    "@stdlib/math-base-special-log10": "^0.2.1",
+    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/boolean-ctor": "^0.2.2",
+    "@stdlib/constants-float64-ninf": "^0.2.2",
+    "@stdlib/constants-float64-pinf": "^0.2.2",
+    "@stdlib/datasets-primes-100k": "^0.2.2",
+    "@stdlib/math-base-special-log10": "^0.3.0",
     "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/math-base-special-trunc": "^0.2.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
