@@ -52,7 +52,7 @@
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/datasets-primes-100k": "^0.2.2",
     "@stdlib/math-base-special-log10": "^0.3.0",
-    "@stdlib/math-base-special-pow": "^0.2.1",
+    "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-trunc": "^0.2.2",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
