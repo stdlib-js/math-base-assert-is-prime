@@ -40,7 +40,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-safe-integer": "^0.2.2",
+    "@stdlib/constants-float64-max-safe-integer": "^0.2.3",
     "@stdlib/math-base-special-floor": "^0.2.4",
     "@stdlib/math-base-special-fmod": "^0.1.1",
     "@stdlib/math-base-special-sqrt": "^0.2.3",
@@ -48,24 +48,25 @@
     "@stdlib/napi-argv-double": "^0.2.2",
     "@stdlib/napi-create-int32": "^0.0.3",
     "@stdlib/napi-export": "^0.3.1",
-    "@stdlib/utils-library-manifest": "^0.2.3"
+    "@stdlib/utils-library-manifest": "^0.2.4"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/boolean-ctor": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.3",
+    "@stdlib/boolean-ctor": "^0.2.3",
     "@stdlib/constants-float64-ninf": "^0.2.3",
     "@stdlib/constants-float64-pinf": "^0.2.3",
-    "@stdlib/datasets-primes-100k": "^0.2.2",
-    "@stdlib/math-base-special-log10": "^0.3.0",
-    "@stdlib/math-base-special-pow": "^0.3.0",
+    "@stdlib/datasets-primes-100k": "^0.2.3",
+    "@stdlib/math-base-special-log10": "^0.3.1",
+    "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/math-base-special-trunc": "^0.2.3",
-    "@stdlib/random-base-discrete-uniform": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.2",
-    "@stdlib/utils-try-require": "^0.2.2",
+    "@stdlib/random-base-discrete-uniform": "^0.2.2",
+    "@stdlib/random-base-randu": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/utils-try-require": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
